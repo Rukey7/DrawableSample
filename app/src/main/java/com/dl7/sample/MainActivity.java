@@ -8,7 +8,7 @@ import android.widget.TextView;
 import com.dl7.sample.drawable.CircleDrawable;
 import com.dl7.sample.drawable.MultiCircleDrawable;
 
-class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     private ImageView mIvCircle;
     private ImageView mIvCircle2;
